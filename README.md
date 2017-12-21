@@ -8,3 +8,4 @@ Android 工具类
 | [NetUtil.java](https://github.com/zyj1609wz/AndroidCommon/blob/master/NetUtil.java)  | 网络工具类     | 
 | [LogUtil.java](https://github.com/zyj1609wz/AndroidCommon/blob/master/LogUtil.java)  | Log工具类     | 
 | [SPUtil.java](https://github.com/zyj1609wz/AndroidCommon/blob/master/SPUtil.java)  | SharedPreferences工具类     | 
+| [ThreadUtil.java](https://github.com/zyj1609wz/AndroidCommon/blob/master/ThreadUtil.java)  | 线程工具类     | 
