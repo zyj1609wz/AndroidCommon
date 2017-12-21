@@ -11,7 +11,7 @@ import java.util.TimeZone;
 public class TimeUtil {
 
     /**
-     * 获取手机系统事件
+     * 获取手机系统时间
      *
      * @return
      */
